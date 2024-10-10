@@ -1,4 +1,4 @@
-# 🏗 QuickNode + Scaffold-ETH 2
+# 🏗 QuickNode + Holmes Properties-BSC
 
 > **This is a customized version of the Scaffold-ETH 2 repository, modified to integrate with [QuickNode](https://www.quicknode.com/signup?utm_source=qn-github&utm_campaign=qn-scaffold).**
 
@@ -6,7 +6,7 @@
 
 - 🚀 **QuickNode HTTP/WSS Provider**: Easily connect to Ethereum networks using QuickNode's robust and scalable nodes.
 - 📦 **Customized QuickNode Setup**: We've adapted the configuration and deployment setup to align with QuickNode's services.
-- 🌐 **Global Node Network**: Benefit from QuickNode's global network of nodes to ensure your dApp performs consistently and reliably across the globe.
+- 🌐 **Global Node Network** Benefit from QuickNode's global network of nodes to ensure your dApp performs consistently and reliably across the globe.
 
 🧪 An open-source, up-to-date toolkit for building decentralized applications (dApps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
@@ -50,7 +50,7 @@ To deploy the smart contract to a production blockchain like Ethereum mainnet, y
 
 ```sh
 # .env file
-QUICKNODE_ENDPOINT=your_quicknode_http_provider_url_here
+QUICKNODE_ENDPOINT=https://attentive-responsive-bridge.bsc.quiknode.pro/4939dae3eada1c179db5285f5e6817535c0ba9f8/
 ```
 
 **Step 3**: Run a local network in the first terminal
